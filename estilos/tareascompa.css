@@ -1,0 +1,105 @@
+.titulo{
+	background-color: #A4A4A4;
+	width: 80%;
+	padding: 1%;
+	margin: 0 auto;
+	margin-top: 4%;
+}
+
+table 
+{
+	border: 1px solid #D8D8D8;
+	width: 82%;
+	margin:0 auto;
+	margin-top: 2%;
+	 border-collapse: collapse;
+
+	
+}
+th
+{
+	background-color: #E6E6E6;
+	padding: 1%;
+}
+
+td{
+
+	text-align: center;
+ border-bottom: 1px solid #D8D8D8;
+ padding: 0.7%;
+ 
+}
+
+.aceptar
+{
+	margin: 0 auto;
+	background-color: #79E3A2;
+	padding: 1%;
+	border:0.1em solid #4BBE77;
+	margin-bottom: 0px;
+	text-align: center;
+	color: #24954F;
+	width: 40%;
+	margin-top: 2%;
+}
+.cancelar
+{
+	background-color: #F17F79;
+	padding: 1%;
+	border:0.1em solid #DA4F47;
+	text-align: center;
+	color: #C92E25;
+	width: 40%;
+	margin-top: 2%;
+	
+}
+.form_confirmacion
+{
+	text-align: center;
+	margin: 0 auto;
+	width: 40%;
+	background-color: #C1303A;
+	padding: 2%;
+	margin-top: 1%;
+	border-radius: 1em;
+	color: white;
+	border:0.1em solid #A70E1B;
+}
+.form_confirmacion select{
+	width: 35%;
+	padding: 0.5%;
+	display: block;
+	margin-left: 30%;
+	margin-top: 1.5%;
+}
+.form_confirmacion input{
+	display: block;
+	width: 53%;
+	
+	border:0px;
+	border-radius: 0.2em;
+	padding: 1.5%;
+}
+.form_confirmacion input[type="submit"]
+{
+	width: 25%;
+	margin-left: 35%;
+	margin-top: 3%;
+	border:0.1em solid #BDBDBD;
+	cursor: pointer;
+	background-color: #818181;
+	color: white;
+
+	
+}
+.sin_resultados
+{
+	background-color: #F17F79;
+	padding: 1%;
+	border:0.1em solid #DA4F47;
+	
+	text-align: center;
+	color: #C92E25;
+	width: 60%;
+	margin-left: 20%;
+}

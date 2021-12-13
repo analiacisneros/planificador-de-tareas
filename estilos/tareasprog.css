@@ -1,0 +1,52 @@
+.titulo{
+	background-color: #A4A4A4;
+	width: 80%;
+	padding: 1%;
+	margin: 0 auto;
+	margin-top: 6%;
+}
+
+table 
+{
+	border: 1px solid #D8D8D8;
+	width: 82%;
+	margin:0 auto;
+	margin-top: 2%;
+	 border-collapse: collapse;
+
+	
+}
+th
+{
+	background-color: #E6E6E6;
+	padding: 1%;
+}
+
+td{
+
+	text-align: center;
+ border-bottom: 1px solid #D8D8D8;
+ padding: 0.7%;
+ cursor: pointer;
+}
+tr:hover{
+	background-color: #BDBDBD;
+}
+.sin_resultados
+{
+	text-align: center;
+	width: 80%;
+	padding: 1%;
+	margin-top: 2%;
+	margin-left: 10%;
+}
+#linea
+ {
+	 width: 30%;
+	float: left;
+	color: white;
+	margin-right: 2%;
+	text-decoration: none;
+	margin-top: 1.4%;
+	
+ }

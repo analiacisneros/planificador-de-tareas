@@ -1,0 +1,80 @@
+article{
+	background-color: red;
+	width: 50%;	
+	float: left;
+	margin-left: 23%;
+}
+.titulo{
+	background-color: #A4A4A4;
+	width: 80%;
+	padding: 1%;
+	margin: 0 auto;
+	margin-top: 6%;
+}
+
+table 
+{
+	border: 1px solid #D8D8D8;
+	width: 82%;
+	margin:0 auto;
+	margin-top: 2%;
+	 border-collapse: collapse;
+
+	
+}
+th
+{
+	background-color: #E6E6E6;
+	padding: 1%;
+}
+
+td{
+
+	text-align: center;
+ border-bottom: 1px solid #D8D8D8;
+ padding: 0.7%;
+ 
+}
+.sin_resultados
+{
+	text-align: center;
+	width: 80%;
+	padding: 1%;
+	margin-top: 2%;
+	margin-left: 10%;
+}
+.boton_elimin
+{
+	float: left;
+	margin-left:40%;
+	margin-top: 3%;
+	text-decoration: none;
+	color: white;
+	padding: 0.6%;
+	border-radius: 0.3em;
+	margin-right: 4%;
+	background-color: #DF0101;
+	
+}
+.eliminar
+{
+	margin: 0 auto;
+	
+	padding: 2%;
+
+	width: 30%;
+	margin-left: 25%;
+	margin-top: 4%;
+	text-align: center;
+	
+}
+#linea
+ {
+	 width: 30%;
+	float: left;
+	color: white;
+	margin-right: 2%;
+	text-decoration: none;
+	margin-top: 1.4%;
+	
+ }

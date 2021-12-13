@@ -1,0 +1,176 @@
+
+article{
+	background-color: red;
+	width: 50%;	
+	float: left;
+	margin-left: 23%;
+}
+
+table 
+{
+	border: 1px solid #D8D8D8;
+	width: 82%;
+	margin:0 auto;
+	margin-top: 10%;
+	margin-bottom: 3%;
+	 border-collapse: collapse;
+
+	
+}
+th
+{
+	background-color: #E6E6E6;
+	padding: 1%;
+}
+
+td{
+
+	text-align: center;
+ border-bottom: 1px solid #D8D8D8;
+ padding: 0.7%;
+ 
+}
+a{
+	margin:0px;
+	text-decoration: none;
+	color: white;
+	padding: 0.6%;
+	border-radius: 0.3em;
+	margin-right: 4%;
+	
+}
+
+/* Modificar tarea*/
+.form_modificar{
+	margin: 0 auto;
+	width: 40%;
+	background-color: #E6E6E6;
+	padding: 5%;
+	margin-top: 10%;
+	border-radius: 1em;
+	border:0.1em solid #BDBDBD;
+}
+.form_modificar label{
+	display: inline-block;
+	width: 35%;
+	float: left;
+}
+.form_modificar input {
+	display: inline-block;
+	width: 55%;
+	margin-bottom: 4%;
+	border:0px;
+	border-radius: 0.2em;
+	padding: 2%;
+}
+.form_modificar textarea{
+	width: 55%;
+	margin-bottom: 4%;
+	padding: 2%;
+}
+.form_modificar input[type="submit"]
+{
+	width: 25%;
+	margin-left: 46%;
+	border:0.1em solid #BDBDBD;
+	cursor: pointer;
+	background-color: #0FA184;
+	color: white;
+	
+}
+.form_modificar input[type="submit"]:hover
+{background-color: #3CC0A6;}
+
+.boton_realizar
+{
+	margin-left: 25%;
+	background-color: #31B404;
+	
+}
+.boton_modif
+{
+	
+	background-color: #FF8000;
+	
+}
+.boton_compar
+{
+	
+	background-color:#0174DF;
+	
+}
+.boton_elimin
+{
+	
+	background-color: #DF0101;
+	
+}
+.ok
+{
+	margin: 0 auto;
+
+	padding: 2%;
+	
+	width: 30%;
+	margin-left: 25%;
+	margin-top: 20%;
+	text-align: center;
+
+}
+
+.eliminar
+{
+	margin: 0 auto;
+	padding: 2%;
+	width: 30%;
+	margin-left: 25%;
+	margin-top: 20%;
+	text-align: center;
+	
+}
+.form_verificar{
+	text-align: center;
+	margin: 0 auto;
+	width: 40%;
+	background-color: #E6E6E6;
+	padding: 5%;
+	margin-top: 8%;
+	border-radius: 1em;
+	border:0.1em solid #BDBDBD;
+
+}
+.form_verificar select{
+	width: 50%;
+	padding: 2%;
+	display: block;
+	margin-left: 20%;
+	margin-top: 2%;
+}
+.form_verificar input{
+	display: block;
+	width: 55%;
+	
+	border:0px;
+	border-radius: 0.2em;
+	padding: 2%;
+}
+.form_verificar input[type="submit"]
+{
+	width: 25%;
+	margin-left: 35%;
+	margin-top: 3%;
+	border:0.1em solid #BDBDBD;
+	cursor: pointer;
+	background-color: #0FA184;
+	color: white;
+
+	
+}
+.form_verificar input[type="submit"]:hover
+{background-color: #3CC0A6;}
+
+.linea
+ {
+	 background-color:blue;
+	 width: 20%;
+ }

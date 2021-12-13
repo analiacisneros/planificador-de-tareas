@@ -1,0 +1,42 @@
+.form_registro{
+	margin: 0px;
+	
+
+}
+#opciones{
+	margin: 0px;
+	margin-left: 35%;
+	margin-top: 3%;
+}
+.ok
+{
+	
+	padding: 1%;
+	
+	margin-left: 10%;
+	margin-bottom: 2%;
+	text-align: center;
+	
+	width: 80%;
+	font-size: 1em;
+	text-shadow: 0px;
+}
+.ok_a
+{
+	
+	width: 3%;
+	color: rgb(98, 99, 105);
+}
+.error
+{
+	background-color: #e24951;
+	padding: 1%;
+	border:0.1em solid #66110b;
+	margin-left: 3%;
+	margin-bottom: 2%;
+	text-align: center;
+	color: #6e0e0e;
+	width: 80%;
+	font-size: 1em;
+	text-shadow: 0px;
+}
