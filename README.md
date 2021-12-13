@@ -1,4 +1,4 @@
-<h1 align="center"> Planificador de tareas 👋</h1>
+<h1 align="center"> Planificador de tareas 📅</h1>
 
 > Este proyecto academico fue realizado para la materia EDI en la carrera de Tec. en Analisis de Sistemas junto con un grupo de compañeros.
 
