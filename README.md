@@ -18,3 +18,13 @@
 ![ListaDeTareas](https://i.postimg.cc/B6RbTM2r/tareas-progr.jpg)
 ## ABM DE TAREAS:
 ![AbmDeTareas](https://i.postimg.cc/hPSS6XKz/abmtareas.jpg)
+
+<div align="center">
+    <h2>Tecnologías Utilizadas</h2>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---tuyDVl_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/php-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite">
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rl0DwDaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
