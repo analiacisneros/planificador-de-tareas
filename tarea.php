@@ -20,7 +20,7 @@
 <body>
 <div id="contenedor">
   <header> 
-  <img src="fotos/enlinea.png" id="imagen" > <?php echo $_SESSION['Nombre']; ?> 
+  <div id="linea"><img src="fotos/enlinea.png" id="imagen" > <?php echo $_SESSION['Nombre']; ?> </div>
   <a class="cerses" href="cerrarsesion.php"> Cerrar Sesion </a>
 
   </header>
