@@ -169,8 +169,12 @@ a{
 .form_verificar input[type="submit"]:hover
 {background-color: #3CC0A6;}
 
-.linea
+#linea
  {
-	 background-color:blue;
-	 width: 20%;
+	width: 30%;
+	float: left;
+	color: white;
+	margin-right: 2%;
+	text-decoration: none;
+	margin-top: 1.4%;
  }
