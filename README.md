@@ -6,6 +6,7 @@
 ![LoginPlanificador](https://i.postimg.cc/T1mwCg9p/login.jpg)
 ## CREARTAREAS :
 ![CrearTareas](https://i.postimg.cc/1t84VLV0/crear-tarea.jpg)
-## LISTA DE TAREAS
+## LISTA DE TAREAS :
 ![ListaDeTareas](https://i.postimg.cc/B6RbTM2r/tareas-progr.jpg)
-
+## ABM DE TAREAS:
+![AbmDeTareas](https://i.postimg.cc/hPSS6XKz/abmtareas.jpg)
